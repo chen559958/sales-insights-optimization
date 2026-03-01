@@ -33,6 +33,7 @@
 - **庫存管理**：根據預測模型，在旺季前兩週提前部署瓦斯量並安排人力配置。
 - **精準行銷**：針對回購率較高之客戶，配置相關優惠策略，（如：提供續購優惠）。
 - **配送優化**：確認區域分布位置，就同區域之客戶可同步進行配送。
+#### 📑 分析報告
 完整的分析結果與優化建議，請點擊下方連結查看：
 <a href="report/Sales Analysis and Recommendations.pdf">
   <img src="https://img.shields.io/badge/查看分析報告-Click%20Here-blue?style=for-the-badge&logo=github" alt="Report">
